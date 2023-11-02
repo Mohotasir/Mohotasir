@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
 <h3 align="center">passionate frontend developer from Bangladesh</h3>
-<img align ="right" alt="tasin" width="400" src="https://www.google.com.bd/search?q=animated+coding+gif&tbm=isch&hl=bn&chips=q:animated+coding+gif,online_chips:github:8HcXrRLSGM4%3D,online_chips:laptop:XfH4mvqMTk0%3D&sa=X&ved=2ahUKEwiDx9Td6aWCAxUimmMGHVIDBuQQ4lYoBXoECAEQOw&biw=1349&bih=641"  ></img>
+<img align ="right" alt="tasin" width="400" src="![image](https://github.com/Mohotasir/Mohotasir/assets/87077964/32a62f66-54bf-4660-b476-199e588d62d7)
+"  ></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
 
 - 🌱 I’m currently learning **React ,Nodejs .**
