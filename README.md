@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://your-image-url.com/cover-photo.jpg" alt="Cover Photo" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
-<h1 align="center">Welcome to my Github Profile</h1>
+<h3 align="center">Welcome to my Github Profile</h3>
 <h3 align="center">A passionate frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
