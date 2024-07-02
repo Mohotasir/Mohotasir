@@ -2,18 +2,17 @@
   <img src="https://your-image-url.com/cover-photo.jpg" alt="Cover Photo" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
-<h3 align="center">Welcome to my Github Profile</h3>
 <h3 align="center">A passionate frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
 
-- 🌱 I’m currently learning **React , Nodejs**
+- 🌱 I’m currently learning: **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://clever-gecko-c2d01a.netlify.app/](https://clever-gecko-c2d01a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-pi-virid.vercel.app/](https://portfolio-nextjs-pi-virid.vercel.app/)
 
-- 💬 Ask me about **JavaScript , React ,Tailwind , Firebase**
+- 💬 Ask me about: **JavaScript, React ,Tailwind CSS**
 
-- 📫 How to reach me **mohotasir1036@gmail.com**
+- 📫 How to reach me: **mohotasir1036@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view](https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view)
 
