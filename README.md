@@ -16,6 +16,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view](https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohotasir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohotasir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohotasir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohotasir&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <p><img align="center" witdth="100%" background-color = "black" src="https://github-readme-streak-stats.herokuapp.com/?user=mohotasir&" alt="mohotasir" /></p>
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohotasir&show_icons=true&locale=en&layout=compact" alt="mohotasir" /></p>
