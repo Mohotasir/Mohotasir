@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/yxh9r1zF/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Cover Photo" width="100%" />
+  <img src="https://i.postimg.cc/T143pWtx/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="Cover Photo"  width="100%" style="border-radius: 15px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
 <h3 align="center">A passionate frontend web developer</h3>
