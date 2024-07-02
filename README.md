@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe width="560" height="315" src="https://drive.google.com/file/d/11M1bHDy2h86CNVxCkbvyLpQ2FZ-mDMuI/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <img src="https://drive.google.com/file/d/1xp1aaidHm5ehRHSO6SrZ0fp5BDfG4CJy/view?usp=sharing" alt="Cover Photo" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
 <h3 align="center">A passionate frontend web developer</h3>
