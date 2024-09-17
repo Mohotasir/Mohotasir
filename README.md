@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
 
-- 🌱 I’m currently learning: **Next.js**
+- 🌱 I’m currently learning: **Next.js , python , Django**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nextjs-pi-virid.vercel.app/](https://portfolio-nextjs-pi-virid.vercel.app/)
 
