@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
 
-- 🌱 I’m currently learning: **Machine Learning**
+- 🌱 I’m currently learning: **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nextjs-pi-virid.vercel.app/](https://portfolio-nextjs-pi-virid.vercel.app/)
 
-- 💬 Ask me about: **JavaScript, React ,Tailwind CSS, Next.js**
+- 💬 Ask me about: **Machine Learning,Deep Learning, JavaScript, React ,Tailwind CSS, Next.js**
 
 - 📫 How to reach me: **mohotasir1036@gmail.com**
 
