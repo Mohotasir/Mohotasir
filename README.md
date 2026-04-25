@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1NgWpuOvnYJazpHZThudArFM7QRReCs_3/view?usp=drive_link" alt="Cover Photo"  width="100%" style="border-radius: 15px;" />
+  <img src="coverGithub.png" alt="Cover Photo"  width="100%" style="border-radius: 15px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
 <h3 align="center">AI Research Enthusiast | Machine Learning, Generative AI & LLMs</h3>
