@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/T143pWtx/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="Cover Photo"  width="100%" style="border-radius: 15px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohotasir</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h3 align="center">AI Research Enthusiast | Machine Learning, Generative AI & LLMs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohotasir&label=Profile%20views&color=0e75b6&style=flat" alt="mohotasir" /> </p>
 
@@ -10,11 +10,20 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nextjs-pi-virid.vercel.app/](https://portfolio-nextjs-pi-virid.vercel.app/)
 
-- 💬 Ask me about: **Machine Learning,Deep Learning, JavaScript, React ,Tailwind CSS, Next.js**
+- 💬 Ask me about: **Machine Learning, Deep Learning, JavaScript, React ,Tailwind CSS, Next.js**
 
 - 📫 How to reach me: **mohotasir1036@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view](https://drive.google.com/file/d/1m4GyOYUVgl-KvOWvNnGiko3Qi4Mna7M3/view)
+
+## 🔍 Research Interests
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- Natural Language Processing (NLP)
+- Computer Vision
+- Federated Learning
+- IoT & Intelligent Systems
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohotasir&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
